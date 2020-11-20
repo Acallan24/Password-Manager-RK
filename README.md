@@ -3,4 +3,4 @@ Basic Password Manager Implementation using MongoDB and QT for GUI
 
 Working App shown Below:
 
-![Alt Text](https://media.giphy.com/media/XQa9COC77uwLG6N1qS/giphy.gif)
+![Alt Text](https://drive.google.com/file/d/1wwd8Rd9J8UwfQBJDO6LfRCxse5C3eevP/view?usp=sharing)
